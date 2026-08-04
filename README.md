@@ -15,7 +15,7 @@
 
 ## Tiago Martins
 
-**Gameplay / Systems Programmer · Unity · C#**
+**AI / Gameplay Programmer · Unity · Unreal · C# · C++**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kintuji.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://kintuji.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagomartinsdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomartinsdev/)
