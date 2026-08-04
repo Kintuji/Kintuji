@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Kintuji
-- 👀 I’m interested in software engineer, game development, AI on games, android, data base, games and applications.
-- 🌱 I’m currently studing at ETIC_Algarve videogames
-- 💞️ I’m looking to collaborate on whatever I can help and what can help me step forward to be a better programmer.
-- 📫 How to reach me: Kintuji on discord or tiagorvmartins06@gmail.com
+<!--
+  This is your PROFILE README. It goes in a repo named exactly after your
+  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
+  Widths 370/490 keep the portrait and info card the same height -- if you
+  change the info card's H, re-match these.
+-->
+<div align="center">
 
-<!---
-Kintuji/Kintuji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
+
+## Tiago Martins
+
+**Gameplay / Systems Programmer · Unity · C#**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kintuji.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://kintuji.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tiagomartinsdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagomartinsdev/)
+
+<br>
+
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
+</div>
