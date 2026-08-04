@@ -47,17 +47,17 @@ HOST = "kintuji"   # shown as  kintuji@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Gameplay / Systems Programmer, open to work"),
+    ("kv", "Now", "AI / Gameplay Programmer, open to work"),
     ("kv", "Prev", "Unity Developer @ Aden Interactive"),
     ("kv", "Edu", "Games Dev (2yr) + BA Teesside (Unity/Unreal)"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Engines", "Unity, Unreal Engine"),
-    ("kv", "Language", "C#"),
-    ("kv", "Systems", "Gameplay AI, FSMs, combat systems"),
+    ("kv", "Languages", "C#, C++"),
+    ("kv", "Focus", "Gameplay AI, Combat Systems, Tools"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "Table for Two -- co-op cooking game (Overcooked-like)"),
+    ("bul", "Table for Two -- co-op cooking game"),
     ("bul", "Nexus of Warriors -- For Honor-style combat, FSM AI bot"),
     ("bul", "Unannounced Aden Interactive title -- shipping on Steam"),
 ]
